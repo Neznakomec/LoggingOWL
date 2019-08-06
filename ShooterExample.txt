@@ -1,0 +1,72 @@
+16:41:25.069 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR50BU9: new theo: 0.385748612142538M
+16:41:25.069 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR50BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.22M, askPrice=0.59M
+16:41:25.070 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR51BU9: new theo: 0.483003179925944M
+16:41:25.070 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR51BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.29M, askPrice=0.71M
+16:41:25.070 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR52BU9: new theo: 0.594607196659796M
+16:41:25.070 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR52BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.37M, askPrice=0.85M
+16:41:25.070 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR53BU9: new theo: 0.733240243748819M
+16:41:25.070 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR53BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.48M, askPrice=1.02M
+16:41:25.071 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR54BU9: new theo: 0.906679797984619M
+16:41:25.071 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR54BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.62M, askPrice=1.23M
+16:41:25.071 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR55BU9: new theo: 1.11266004169977M
+16:41:25.071 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR55BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.79M, askPrice=1.46M
+16:41:25.071 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR56BU9: new theo: 1.36855228542224M
+16:41:25.071 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR56BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=1.01M, askPrice=1.75M
+16:41:25.072 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR57BU9: new theo: 1.64878964621267M
+16:41:25.072 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR57BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=1.26M, askPrice=2.05M
+16:41:25.072 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR58BU9: new theo: 1.979525888072M
+16:41:25.072 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR58BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=1.56M, askPrice=2.40M
+16:41:25.073 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR59BU9: new theo: 2.36726672613993M
+16:41:25.073 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR59BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=1.93M, askPrice=2.81M
+16:41:25.073 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR60BU9: new theo: 2.7945636715267M
+16:41:25.073 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR60BU9 underlying=(60.19M/60.17M/60.2M), bidPrice=2.35M, askPrice=3.24M
+16:41:25.074 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR61BI9: new theo: 2.48929987704847M
+16:41:25.074 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR61BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=2.04M, askPrice=2.94M
+16:41:25.074 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR62BI9: new theo: 2.05050618060292M
+16:41:25.074 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR62BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=1.61M, askPrice=2.49M
+16:41:25.075 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR63BI9: new theo: 1.65211552666522M
+16:41:25.075 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR63BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=1.23M, askPrice=2.08M
+16:41:25.075 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR64BI9: new theo: 1.32811596782829M
+16:41:25.075 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR64BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.94M, askPrice=1.74M
+16:41:25.076 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR65BI9: new theo: 1.05674091912734M
+16:41:25.076 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR65BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.70M, askPrice=1.44M
+16:41:25.076 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR66BI9: new theo: 0.830095156745124M
+16:41:25.076 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR66BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.51M, askPrice=1.18M
+16:41:25.076 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR67BI9: new theo: 0.654664878201443M
+16:41:25.076 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR67BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.38M, askPrice=0.98M
+16:41:25.077 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR68BI9: new theo: 0.515807748983089M
+16:41:25.077 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR68BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.28M, askPrice=0.81M
+16:41:25.077 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR69BI9: new theo: 0.403583039810935M
+16:41:25.077 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR69BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.20M, askPrice=0.66M
+16:41:25.077 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR70BI9: new theo: 0.324478788745342M
+16:41:25.077 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR70BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.15M, askPrice=0.55M
+16:41:25.078 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR71BI9: new theo: 0.263168435772458M
+16:41:25.078 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR71BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.12M, askPrice=0.47M
+16:41:25.078 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR72BI9: new theo: 0.209724222384906M
+16:41:25.078 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR72BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.09M, askPrice=0.39M
+16:41:25.078 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR73BI9: new theo: 0.175508585969346M
+16:41:25.078 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR73BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.07M, askPrice=0.34M
+16:41:25.079 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR74BI9: new theo: 0.15065441583734M
+16:41:25.079 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR74BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.06M, askPrice=0.29M
+16:41:25.079 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM brShooter10.19 (OPEN_41037CY/brMMFut10_2019):BR75BI9: new theo: 0.127318887508823M
+16:41:25.079 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: BR75BI9 underlying=(60.19M/60.17M/60.2M), bidPrice=0.05M, askPrice=0.26M
+16:41:25.079 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.075BU9: new theo: 0.000396218147881371M
+16:41:25.080 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.075BU9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0004M, askPrice=0.0009M
+16:41:25.080 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.07BU9: new theo: 0.000286368292990745M
+16:41:25.080 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.07BU9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0003M, askPrice=0.0008M
+16:41:25.080 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.085BU9: new theo: 0.000790584054611854M
+16:41:25.081 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.085BU9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0008M, askPrice=0.0013M
+16:41:25.081 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.08BU9: new theo: 0.000550607461695343M
+16:41:25.081 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.08BU9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0006M, askPrice=0.0011M
+16:41:25.082 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.095BU9: new theo: 0.00159962677778527M
+16:41:25.082 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.095BU9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0037M, askPrice=0.0042M
+16:41:25.082 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.09BU9: new theo: 0.00112426610409413M
+16:41:25.082 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.09BU9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0011M, askPrice=0.0016M
+16:41:25.082 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.105BU9: new theo: 0.00321839970577426M
+16:41:25.083 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.105BU9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0034M, askPrice=0.0039M
+16:41:25.083 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.115BI9: new theo: 0.0124465980223216M
+16:41:25.083 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.115BI9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0127M, askPrice=0.0132M
+16:41:25.083 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.115BU9: new theo: 0.00619659802232153M
+16:41:25.083 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.115BU9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0064M, askPrice=0.0070M
+16:41:25.084 T39                TRC #OptionMarketMaker                   Evaluate:0207                    -> MM edQuoting9.19 (OPEN_41037CY/edMMSep2019):ED1.11BU9: new theo: 0.00450669948984422M
+16:41:25.084 T39                INF #OptionMarketMaker                   PlaceOrders:0145                 -> OW-1475: ED1.11BU9 underlying=(1.1212M/1.1212M/1.1213M), bidPrice=0.0060M, askPrice=0.0065M

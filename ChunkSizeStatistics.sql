@@ -1,0 +1,1 @@
+SELECT count(distinct id),* FROM Ticks group by count
